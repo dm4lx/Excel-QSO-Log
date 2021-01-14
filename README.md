@@ -1,3 +1,3 @@
 # Excel-QSO-Log
  
-![Alt text](readme.png)
+![Alt text](/readme.png)
