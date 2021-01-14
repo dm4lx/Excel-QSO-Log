@@ -1,3 +1,3 @@
 # Excel-QSO-Log
  
-![Alt text](/readme.png)
+![Alt text](https://github.com/dm4lx/Excel-QSO-Log/blob/main/readme.PNG)
